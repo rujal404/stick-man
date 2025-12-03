@@ -9,7 +9,7 @@
 </p>
 
 <div align="left" >
-  <h2> <img src = "https://github.com/rujal404/stick-man/Stick%20Man%20.gif" width = 800px height=450px> </h2>
+  <h2> <img src = "https://github.com/rujal404/stick-man/blob/master/Stick%20Man%20.gif" width = 800px height=450px> </h2>
 </div>
 
 <br>
